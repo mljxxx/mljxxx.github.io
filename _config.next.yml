@@ -1,1 +1,9 @@
 darkmode: true
+scheme: Gemini
+# sidebar:
+#   position: left
+#   display: always
+memu:
+  home: /
+  # categories: /categories/
+  tags: /tags/
