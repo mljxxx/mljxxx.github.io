@@ -7,3 +7,6 @@ memu:
   home: /
   # categories: /categories/
   tags: /tags/
+
+social:
+  GitHub: https://github.com/mljxxx || fab fa-github
